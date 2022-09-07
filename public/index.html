@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tag above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+    <style> 
+      .init-loading { position: absolute; top: 50%;left: 50%;margin-top: -112px;margin-left: -180px; }
+    </style>
+    <!--react-intl-univeral 直接引用了 Intl，这里无需再加载 -->
+    <!-- <script>
+      if (!window.Intl) {
+        document.writeln('<script src="%PUBLIC_URL%/assets/js/Intl/Intl.min.js">' + '<' + '/script>');
+        document.writeln('<script src="%PUBLIC_URL%/assets/js/Intl/locale-data/jsonp/en.js">' + '<' + '/script>');
+        document.writeln('<script src="%PUBLIC_URL%/assets/js/Intl/locale-data/jsonp/zh.js">' + '<' + '/script>');
+      }
+    </script> -->
+  </head>
+  <body>
+    <div id="root">
+      <img src="%PUBLIC_URL%/assets/imgs/wind.png" class="init-loading" alt="加载中">
+    </div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start`.
+      To create a production bundle, use `npm run build`.
+    -->
+  </body>
+</html>

@@ -1,0 +1,11 @@
+.data-picker{
+  position: relative;
+  left: 50%;
+  margin-left: -50%;
+}
+.from-list{
+  margin-top: 10%;
+  /* position: absolute; */
+  /* top: 50%; */
+  /* margin-top: -50%; */
+}

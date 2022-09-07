@@ -1,0 +1,78 @@
+[
+  {
+    "ID": 152,
+    "FullStr": "Chinese/English Switch"
+  },
+  {
+    "ID": 1560,
+    "FullStr": "1M"
+  },
+  {
+    "ID": 1608,
+    "FullStr": "Help"
+  },
+  {
+    "ID": 13205,
+    "FullStr": "1B"
+  },
+  {
+    "ID": 13781,
+    "FullStr": "Data Source"
+  },
+  {
+    "ID": 17235,
+    "FullStr": "No Data"
+  },
+  {
+    "ID": 19331,
+    "FullStr": "Dear client {s} , welcome to  iWind"
+  },
+  {
+    "ID": 19378,
+    "FullStr": "The Wind terminal (Account No.: {s}) you are using will expire in {s1} days. Please make your payment in time."
+  },
+  {
+    "ID": 19475,
+    "FullStr": "Home"
+  },
+  {
+    "ID": 19498,
+    "FullStr": "All"
+  },
+  {
+    "ID": 19853,
+    "FullStr": "Delete"
+  },
+  {
+    "ID": 20368,
+    "FullStr": "About Us"
+  },
+  {
+    "ID": 20771,
+    "FullStr": "Completed"
+  },
+  {
+    "ID": 22827,
+    "FullStr": "Loading Failure (This message is only available in Debug)!"
+  },
+  {
+    "ID": 23202,
+    "FullStr": "Trading Day Testing"
+  },
+  {
+    "ID": 24711,
+    "FullStr": "Update"
+  },
+  {
+    "ID": 24865,
+    "FullStr": "Welcome"
+  },
+  {
+    "ID": 31847,
+    "FullStr": "Chart"
+  },
+  {
+    "ID": 36577,
+    "FullStr": "Failed"
+  }
+]
